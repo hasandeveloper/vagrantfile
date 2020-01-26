@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrant_data":{"guestpath":"/vagrant_data","hostpath":"/Users/hasan/Desktop/ansible/multi-vm-boot/data","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/hasan/Desktop/ansible/multi-vm-boot","disabled":false,"__vagrantfile":true}}}
